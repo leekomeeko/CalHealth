@@ -459,5 +459,23 @@ class App(TKMT.ThemedTKinterFrame):
             widget.destroy()
         print("Caloric History launched!")
 
+        def save_caloric_history():
+            # Create the directory if it doesn't exist
+            directory = f"Datafile/USERS/{self.username}"
+            os.makedirs(directory, exist_ok=True)
+
+            file_path = f"{directory}/{self.username}_caloric_history.csv"
+
+            current_datetime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            total_calories = self.total_calories
+
+            # Write the data to the CSV file
+            with open(file_path, mode='a', newline='') as file:
+                writer = csv.writer(file)
+                writer.writerow([current_datetime, total_calories])
+
+        save_button = tk.Button(self.master, text="Save Caloric History", command=save_caloric_history, width=20, height=2, borderwidth=2)
+        save_button.place(relx=0.5, rely=0.5, anchor="center")
+
 if __name__ == "__main__":
     App("sun-valley", "light")
