@@ -1,0 +1,384 @@
+Omelette: 350
+Greek Yogurt with Berries: 150
+Avocado Toast: 300
+Scrambled Eggs: 200
+Whole Wheat Pancakes: 250
+Smoothie Bowl: 200
+Steel-Cut Oatmeal: 150
+Chia Seed Pudding: 120
+Fruit Salad: 100
+Smoked Salmon Bagel: 350
+Veggie Omelette: 300
+Peanut Butter Toast: 250
+Granola with Milk: 300
+Banana Nut Muffin: 400
+Cottage Cheese with Pineapple: 200
+Breakfast Burrito: 400
+Yogurt Parfait: 250
+Whole Grain Waffles: 300
+Egg and Cheese Sandwich: 350
+Acai Bowl: 350
+Quinoa Porridge: 250
+Frittata: 300
+Bagel with Cream Cheese: 350
+Fruit Smoothie: 200
+English Muffin with Jam: 250
+Hash Browns: 200
+Bacon and Egg Wrap: 400
+Pancakes with Maple Syrup: 400
+Almond Butter Toast: 300
+Greek Yogurt Parfait: 250
+Chickpea Scramble: 200
+Rice Cakes with Avocado: 300
+Breakfast Quiche: 350
+Cheddar Biscuits: 400
+Muesli with Almond Milk: 300
+Egg White Omelette: 200
+Cinnamon Raisin Bagel: 350
+Berry Smoothie: 200
+Vegan Pancakes: 250
+Nutella Toast: 300
+Sausage and Egg Sandwich: 400
+Greek Yogurt Bowl: 250
+Blueberry Muffin: 350
+Chia Seed Smoothie: 200
+Breakfast Tacos: 300
+Egg McMuffin: 300
+Pita Bread with Hummus: 250
+Biscuits and Gravy: 400
+Mango Lassi: 200
+Honey Garlic Chicken Meal Prep: 803
+Chicken With Broccoli Beets and Farro Salad: 715
+Teriyaki Chicken Meal Prep: 653
+Chicken Salad Meal Prep: 597
+Sheet Pan Cashew Chicken: 579
+Salmon Stir Fry: 579
+Turkey and Avocado Wrap: 450
+Mediterranean Quinoa Salad: 400
+Veggie Burger with Sweet Potato Fries: 550
+Chickpea and Spinach Curry: 450
+Caprese Sandwich: 400
+Tuna Nicoise Salad: 500
+Black Bean Burrito Bowl: 550
+Greek Chicken Pita: 450
+Shrimp and Broccoli Stir-Fry: 400
+Falafel Wrap with Hummus: 450
+Asian Noodle Salad: 400
+BBQ Pulled Pork Sandwich: 550
+Vegetable Fried Rice: 400
+Chicken Caesar Wrap: 450
+Quinoa Stuffed Bell Peppers: 400
+Mango Avocado Salad: 350
+Lentil Soup with Whole Grain Bread: 400
+Eggplant Parmesan Sandwich: 450
+Thai Peanut Noodles: 500
+Spinach and Feta Quesadilla: 400
+Chickpea Salad Sandwich: 450
+Sesame Ginger Tofu Bowl: 400
+Roasted Vegetable Panini: 450
+Curried Lentil Bowl: 400
+Zucchini Noodle Pad Thai: 450
+Mushroom and Swiss Turkey Burger: 400
+Sweet Potato and Black Bean Tacos: 450
+Greek Orzo Salad: 400
+Pesto Chicken Panini: 450
+Vegan Lentil Chili: 400
+California Sushi Roll: 450
+Quinoa and Roasted Veggie Bowl: 400
+Avocado Tuna Salad: 450
+Mediterranean Hummus Wrap: 400
+Spicy Chickpea and Quinoa Bowl: 450
+Caprese Quinoa Bowl: 400
+Veggie Sushi Bowl: 450
+Mexican Black Bean Salad: 400
+Pesto Zoodles with Grilled Chicken: 450
+Roasted Red Pepper and Goat Cheese Sandwich: 400
+Vegan BBQ Jackfruit Sandwich: 450
+Greek Couscous Salad: 400
+Tofu and Broccoli Stir-Fry: 450
+Mediterranean Falafel Bowl: 400
+Veggie and Hummus Wrap: 450
+Lemon Herb Grilled Fish with Quinoa: 400
+Chickpea and Avocado Salad: 450
+Adobo: 350
+Sinigang: 250
+Kare-Kare: 400
+Pancit Canton: 300
+Lechon Kawali: 450
+Tinola: 150
+Bicol Express: 300
+Laing: 250
+Puto: 200
+Lumpiang Shanghai: 350
+Chicken Inasal: 400
+Ginataang Kalabasa: 300
+Tapsilog: 450
+Bibingka: 350
+Puto Bumbong: 250
+Sisig: 400
+Pancit Malabon: 350
+Taho: 200
+Champorado: 300
+Tinapang Bangus: 350
+Puto Cheese: 250
+Dinuguan: 400
+Puto Maya: 350
+Kakanin: 300
+Ube Halaya: 400
+Turon: 250
+Puto Lanson: 350
+Buko Pandan: 300
+Puto Kutsinta: 400
+Tamales: 250
+Puto Seko: 350
+Bibingkang Malagkit: 300
+Puto Pao: 400
+Tinolang Manok: 250
+Puto Flan: 350
+Puto Mamon: 300
+Puto Espesyal: 400
+Puto Cuchinta: 250
+Puto Bibingka: 350
+Puto Bao: 300
+Puto Maya with Sikwate: 400
+Puto Binan: 250
+Puto Calasiao: 350 
+Puto Puti: 300
+Puto Suman: 400
+Puto Sapin-Sapin: 250
+Puto Kalamay: 350
+Puto Kutsinta with Yema: 300
+Puto Puto: 400
+Puto Pao with Salted Egg: 250
+Puto Bibingka with Salted Egg: 350
+Puto Bao with Salted Egg: 300
+Puto Maya with Salted Egg: 400
+Puto Binan with Salted Egg: 250
+Greek Yogurt Brownies: 91
+Peanut Butter Protein Blondies: 55
+2 Ingredient Fluff Cake: 120
+Healthy Chocolate Cake: 98
+Chocolate-Covered Strawberries (3 pieces): 107
+Low-Calorie Cheesecake: 150
+Berry Parfait: 180
+Frozen Banana Bites: 70
+Coconut Macaroons: 90
+Rice Pudding: 160
+Chocolate Mousse: 130
+Angel Food Cake: 72
+Pumpkin Spice Energy Balls: 80
+Lemon Sorbet: 110
+Almond Joy Bites: 95
+Strawberry Shortcake: 140
+Frozen Yogurt Bark: 120
+Apple Crisp: 180
+Mango Sorbet: 100
+Chocolate-Dipped Pretzels: 140
+Peach Cobbler: 160
+Oatmeal Raisin Cookies (2 cookies): 120
+Pistachio Ice Cream: 150
+Chocolate Chia Pudding: 130
+Banana Nice Cream: 100
+Blueberry Almond Bars: 110
+Pumpkin Pie Bites: 90
+Coconut Rice Pudding: 140
+Chocolate Avocado Mousse: 160
+Mixed Berry Crumble: 130
+Vanilla Panna Cotta: 120
+Chocolate Banana Bread: 140
+Pecan Pralines: 150
+Lemon Poppy Seed Muffin: 130
+Berry Smoothie Bowl: 180
+Pumpkin Spice Latte Mug Cake: 100
+Cherry Almond Biscotti: 110
+Chocolate Covered Almonds (10 pieces): 120
+Pumpkin Cheesecake Bites: 140
+Cinnamon Sugar Donut Holes: 90
+Raspberry Chocolate Chip Frozen Yogurt: 130
+Peanut Butter Cup Chia Pudding: 150
+Chocolate-Dipped Coconut Macaroons: 120
+Strawberry Banana Ice Cream: 100
+Lemon Blueberry Scones: 140
+Chocolate Hazelnut Spread: 160
+Pumpkin Spice Rice Krispie Treats: 110
+Cherry Vanilla Yogurt Parfait: 120
+Chocolate Covered Raspberries (10 pieces): 130
+Pumpkin Spice Mug Cake: 150
+Coconut Mango Sorbet: 100
+Coffee (black): 2
+Coffee (with milk): 100
+Coffee (with cream and sugar): 150
+Espresso: 3
+Caffe Latte: 170
+Cappuccino: 120
+Mocha: 300
+Black Tea: 2
+Green Tea: 2
+Oolong Tea: 2
+White Tea: 2
+Iced Tea (sweetened): 150
+Hot Chocolate: 180
+Orange Juice: 110
+Grapefruit Juice: 60
+Apple Juice: 110
+Pineapple Juice: 140
+Tomato Juice: 40
+Carrot Juice: 80
+Vegetable Juice: 40
+Cola: 140
+Sprite: 140
+Ginger Ale: 30
+Tonic Water: 0
+Mineral Water: 0
+Sports Drink: 160
+Energy Drink: 110
+Lemonade (homemade): 60
+Lemonade (store-bought): 100
+Smoothie (fruit): 200
+Smoothie (green): 150
+Milk (whole): 150
+Milk (low-fat): 120
+Milk (skim): 80
+Soy Milk: 80
+Almond Milk: 30
+Coconut Milk: 70
+Lassi (yogurt drink): 150
+Milkshake (chocolate): 300
+Milkshake (strawberry): 250
+Yogurt parfait: 200
+Ice cream (vanilla): 200
+Cheesecake: 350
+Frappe (mocha): 350
+Chicken Teriyaki Bowl: 400
+Beef Stir-Fry: 450
+Shrimp Scampi: 350
+Vegetable Curry: 300
+Pork Carnitas Tacos: 400
+Salmon with Lemon Butter Sauce: 450
+Mushroom Risotto: 350
+Chicken Alfredo: 400
+Beef Burrito: 450
+Vegetable Lasagna: 350
+Honey Mustard Chicken: 400
+Lemon Garlic Shrimp: 450
+Spinach and Mushroom Quesadilla: 350
+Pesto Pasta: 400
+Chicken Parmesan: 450
+Vegetable Stir-Fry: 350
+Beef and Broccoli: 400
+Lemon Herb Roasted Chicken: 450
+Mushroom and Spinach Stuffed Chicken Breast: 350
+Pork Chops with Apple Sauce: 400
+Shrimp Fried Rice: 450
+Eggplant Parmesan: 350
+Chicken Fajitas: 400
+Beef Tacos: 450
+Vegetable Curry: 350
+Honey Garlic Salmon: 400
+Mushroom and Spinach Pasta: 450
+Chicken and Broccoli Stir-Fry: 350
+Beef and Mushroom Stroganoff: 400
+Lemon Herb Grilled Chicken: 450
+Pork Tenderloin with Apple Chutney: 350
+Shrimp Scampi Pasta: 400
+Eggplant Rollatini: 450
+Chicken Marsala: 350
+Beef and Vegetable Skewers: 400
+Vegetable Pad Thai: 450
+Honey Mustard Salmon: 350
+Mushroom and Spinach Quiche: 400
+Chicken Piccata: 450
+Beef and Black Bean Chili: 350
+Vegetable Enchiladas: 400
+Honey Garlic Pork Chops: 450
+Shrimp and Vegetable Stir-Fry: 350
+Eggplant and Tomato Gratin: 400
+Chicken and Vegetable Curry: 450
+Beef and Potato Stew: 350
+Vegetable Paella: 400
+Honey Mustard Pork Tenderloin: 450
+Mushroom and Spinach Stuffed Peppers: 350
+Chicken and Mushroom Risotto: 400
+Beef and Broccoli Stir-Fry: 450
+Vegetable Stir-Fry Noodles: 350
+Beef Stir-Fry: 400
+Beef Burrito: 450
+Beef Tacos: 450
+Beef and Broccoli: 400
+Beef and Mushroom Stroganoff: 400
+Beef and Vegetable Skewers: 400
+Beef and Black Bean Chili: 350
+Beef and Potato Stew: 350
+Beef and Broccoli Stir-Fry: 450
+Beef and Mushroom Risotto: 400
+Ribeye Steak: 600
+Filet Mignon: 500
+New York Strip Steak: 550
+T-Bone Steak: 650
+Porterhouse Steak: 700
+Sirloin Steak: 450
+Flank Steak: 400
+Skirt Steak: 450
+Hanger Steak: 400
+Flat Iron Steak: 450
+Chickenjoy: 350
+Yum Burger: 250
+Jolly Spaghetti: 300
+Burger Steak: 400
+Jolly Hotdog: 350
+Chicken Burger: 300
+Aloha Burger: 350
+Chicken Barbecue: 400
+Peach Mango Pie: 200
+Jolly Crispy Fries: 250
+Chocolate Sundae: 150
+Vanilla Cone Twirl: 100
+Palabok Fiesta: 400
+Chicken Sandwich: 300
+Chicken Tenders: 350
+Jolly Twirl: 200
+Jolly Float: 250
+Buko Pandan Sundae: 200
+Mang Inasal Chicken Inasal: 400
+Mang Inasal Pork BBQ: 350
+Mang Inasal Bangus Sisig: 300
+Mang Inasal Pork Liempo: 400
+Mang Inasal Halo-Halo: 250
+Mang Inasal Palabok: 400
+Big Mac: 563
+Quarter Pounder with Cheese: 520
+McChicken: 400
+Filet-O-Fish: 390
+Cheeseburger: 300
+Hamburger: 250
+Chicken McNuggets (6 pieces): 280
+Chicken McNuggets (10 pieces): 470
+McDouble: 390
+McRib: 500
+McFlurry (Oreo): 510
+Apple Pie: 240
+Fries (small): 230
+Fries (medium): 340
+Fries (large): 510
+Soft Serve Cone: 200
+Hot Fudge Sundae: 330
+McChicken Deluxe: 530
+Double Cheeseburger: 440
+Triple Cheeseburger: 520
+Big N' Tasty: 460
+Egg McMuffin: 300
+Sausage McMuffin: 370
+Sausage McMuffin with Egg: 450
+Bacon, Egg & Cheese Biscuit: 460
+Sausage Biscuit with Egg: 510
+Hotcakes: 600
+Sausage McGriddles: 420
+Bacon, Egg & Cheese McGriddles: 460
+Sausage, Egg & Cheese McGriddles: 550
+Bacon, Egg & Cheese Bagel: 550
+Steak, Egg & Cheese Bagel: 670
+Hash Browns: 150
+Fruit 'N Yogurt Parfait: 150
+Fruit & Maple Oatmeal: 320
+Big Breakfast: 750
+Big Breakfast with Hotcakes: 1350
